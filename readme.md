@@ -1,0 +1,1 @@
+clone the yolov5 5s or 5x and put it in the directory named yolov5s.pt or yolov5x.pt
